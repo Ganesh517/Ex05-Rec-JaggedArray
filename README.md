@@ -22,7 +22,7 @@ Stop.
 ## Program:
 ```c#
 using System;
-class CPUactivity
+class Gane
 {
     public static void Main(String[] args)
     {
